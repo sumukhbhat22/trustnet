@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# TrustNet AI Guardian
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: https://github.com/sumukhbhat22/trustnet
 
 ## How can I edit this code?
 
