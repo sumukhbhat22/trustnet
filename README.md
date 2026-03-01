@@ -54,3 +54,9 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+Team members:
+Sumukh Bhat
+Siddhantha 
+Varadendra R K
+Roshan C
+Siri G
